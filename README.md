@@ -1,3 +1,3 @@
 # Alura - Sorteador de números
 
-Um projeto do cruso de Lógica de Programação da Alura.
+Um projeto do curso de Lógica de Programação da Alura.
